@@ -27,3 +27,9 @@ India Recovery cases has almost same to India Comfirmed cases.
 Here different between India Comfirmed cases and India Recovery cases of India are our Death cases.
 According to Comfirmed cases and Recovery cases Death cases are low which are good for our India.
 According to the graph world are affected very fast and India we can see after 100 days COVID-19 started affecting India and its increasing day by day
+
+
+Suggestions to the government health department of the country for preparation:-
+
+
+According to this dataset of Comfirmed,Recovered and Death cases of world level and EDA (EXPLORATORY DATA ANALYSIS) and my experience we got some information and what WHO and us should do. Firstly WHO (world heath organization) should declare alert of COVID-19 and according to this datset most of the people infected with COVID-19 virus.The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. the best way to safe and slow down transmission is to be well informed about the diease and how the virus spreads.Protect yourself and others from infection by staying at 2 meters far from others,wear a proper fitted mask and wash your hand or use an alcohol based rub frequently.Get vaccinated when it's your turn come and follow local guidance. and WHO and our governement should increase bed in Hospital for infected people and try to vaccinated all people as soon as possible.
